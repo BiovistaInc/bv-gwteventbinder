@@ -1,0 +1,3 @@
+[submodule "gwteventbinder"]
+	path = gwteventbinder
+	url = https://github.com/BiovistaInc/gwteventbinder.git

@@ -10,6 +10,7 @@
 
 	<path id="bv-gwteventbinder.classpath">
 		<pathelement location="${build_dir}"/>
+		<path refid="gwt.userclasspath"/>
 	</path>
 
 	<path id="bv-gwteventbinder.srcpath">
